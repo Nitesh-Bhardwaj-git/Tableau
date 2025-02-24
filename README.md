@@ -1,4 +1,4 @@
-Tableau Data Analysis & Visualization
+# Tableau Data Analysis & Visualization
   
 Designed an interactive Tableau dashboard to analyze state-wise COVID-19 data with insights into
 infection rates, recovery trends, active cases, mortality, and total cases.
